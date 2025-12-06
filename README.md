@@ -2,7 +2,7 @@
   
 # Bárbara Jaeger Specian
 
-**Acadêmica de Inteligência Artificial | Desenvolvedora Python e JavaScript | Farmacêutica em Transição de Carreira**
+**Acadêmica de Inteligência Artificial | Pós-graduanda em Ciência de Dados e Analytics | Desenvolvedora Python e JavaScript | Farmacêutica**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-jaeger-specian-0815431a0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbjspecian@gmail.com)
