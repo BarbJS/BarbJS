@@ -12,27 +12,30 @@
 ### **Olá, seja bem-vindo(a) ao meu perfil! 👩‍💻👋**
 
 ## 🚀 Resumo
-Sou uma profissional entusiasta da tecnologia, com foco em **Inteligência Artificial e Desenvolvimento de Sistemas**. Estou sempre em busca do desenvolvimento contínuo de habilidades na área de tecnologia, consolidadas através de formação contínua e projetos práticos em cursos, imersões e bootcamps em análise de dados, linguagens de programação, segurança da informação e machine learning. A experiência prévia como farmacêutica especialista na indústria cosmética estruturou uma base sólida em habilidades essenciais de pensamento crítico, flexibilidade, trabalho em equipe e garantia da qualidade. A vivência em gestão de projetos de pesquisa e desenvolvimento de novos cosméticos, desde o planejamento até a entrega ao cliente, reflete em um perfil profissional orientado a resultados, com alta capacidade analítica para a resolução de problemas e foco na eficiência operacional e qualidade das entregas. Tais competências são aplicadas na área de tecnologia para desenvolver e implementar soluções tecnológicas eficientes e seguras para o futuro, alinhadas à comunicação clara e assertiva e à visão sistêmica e estratégica.
+Profissional em formação acadêmica voltada para Inteligência Artificial e Ciência de Dados, com foco em Python, SQL e práticas de MLOps (Machine Learning Operations). Direciona sua capacitação técnica para o aprendizado contínuo e desenvolvimento de projetos práticos de cursos, imersões e bootcamps em desenvolvimento de Agentes de IA, automação de processos, integração de LLMs, análise de dados e estruturação de pipelines de dados em Cloud Computing, buscando aliar modelagem estatística a princípios de Engenharia de Software. A experiência prévia como farmacêutica especialista na indústria cosmética estruturou uma base sólida em Pesquisa e Desenvolvimento e Gestão da Qualidade, refletindo em um perfil profissional analítico e orientado a resultados, que aplica rigor metodológico para a resolução de problemas, eficiência operacional e qualidade das entregas. Tais competências são direcionadas à tecnologia para projetar ecossistemas de dados robustos, seguros e escaláveis, aliando execução técnica e comunicação assertiva à visão estratégica e sistêmica.
 
 ## 🎯 Objetivo Profissional
-Busco uma oportunidade de **Estágio em Desenvolvimento de Sistemas** ou **Estágio em Inteligência Artificial**, onde posso aplicar minha bagagem analítica e minhas novas competências técnicas em projetos inovadores.
+Busco uma oportunidade de **Estágio em Ciência de Dados** ou **Estágio em Inteligência Artificial**, onde posso aplicar minha bagagem analítica e minhas novas competências técnicas em projetos inovadores.
 
 ## 🛠️ Hard Skills & Stack Tecnológico
 
 * **Python** (Intermediário)
 * **JavaScript** (Básico)
-* **Java** (Básico) 
 * **Node.js** (Básico) 
-* **SQL (MySQL)** (Básico)
+* **SQL (MySQL, SQL Server e Oracle)** (Básico)
 * **HTML & CSS** (Básico) 
 * **Microsoft Power BI** (Básico)
 * **Pacote Microsoft Office** (Intermediário)
-* **Segurança da Informação** e **Cibersegurança** (Básico)
+* **Cibersegurança** (Básico)
 * **Git e GitHub**
+* **Prompt engineering**
+* **Machine Learning Operations**
+* **Cloud computing**
 * **Metodologias Ágeis** (Scrum e Kanban) 
 * **Garantia da Qualidade (QA) e Documentação Técnica**
 * **Ferramentas de Análise:** 5W2H, 5S, Diagramas, Fluxogramas e Anáises de causa raiz
-* **Assuntos Regulatórios:** Indústria Farmacêutica, Cosmética e Veterinária
+* **Inglês:** Avançado/Profissional
+* **Espanhol, Italiano e Russo:** Básico
 
 ## 🧠 Soft Skills: O Diferencial da Minha Trajetória
 
@@ -47,7 +50,7 @@ Investindo pesado na transição para a área de tecnologia, apoiada por uma só
 
 ### Em Andamento
 * 🎓 **Tecnólogo em Inteligência Artificial: Sistemas de Dados Inteligentes** | PUCPR (Previsão de conclusão em 07/2027)
-* 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** | SENAC (Previsão de início em 02/2026)
+* 🎓 **Especialização em Ciência de Dados e Analytics** | PUCRio (Previsão de conclusão em 12/2026)
 
 ### Formação Anterior 
 * 📜 Pós-graduação em Gestão e Tecnologia da Indústria Cosmética | Instituto Racine (2024)
@@ -55,6 +58,8 @@ Investindo pesado na transição para a área de tecnologia, apoiada por uma só
 * 📜 Bacharelado em Farmácia Bioquímica | UFPR (2019)
 
 ### Cursos e Imersões Recentes
+* ⚡ GitHub Copilot: Código na Prática (DIO, 2025)
+* 🤖 Aceleração Microsoft AI Agents (DIO, 2025)
 * 💡 Dio Campus Expert - Turma 14 (DIO, 2025)
 * ⚡ Intensivão em JavaScript com Frontend (Hashtag Treinamentos, 2025) 
 * 🤖 Imersão em IA Generativa & Imersão Dev em Agentes de IA (Google Gemini & Alura, 2025)
